@@ -1,0 +1,28 @@
+name: 'IsThisOurBest? '
+favicon: null
+layout_spectrum: 0.7814925638958812
+typography_spectrum: 0.29953363980166614
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7414251435548067
+  lightness: 0.9672339679673314
+  saturation: 0.25486802123486996
+  rhythmicContrast: 0.5280926695559174
+purpose: []
